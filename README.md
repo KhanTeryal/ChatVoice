@@ -1,6 +1,6 @@
 # XTTS + Qwen 2.5 AI Chatbot (Colab Edition)
 
-project ini menggunakan [Coqui XTTS](https://github.com/coqui-ai/TTS) sebagai voice dan [Qwen 2.5 14B Chat Model](https://huggingface.co/Qwen) untuk chatbot.
+This project leverages [Coqui XTTS](https://github.com/coqui-ai/TTS) for high-quality voice synthesis and the [Qwen 2.5 14B Chat Model](https://huggingface.co/Qwen) as its core conversational AI.
 
 ---
 
@@ -12,9 +12,9 @@ project ini menggunakan [Coqui XTTS](https://github.com/coqui-ai/TTS) sebagai vo
 - fine tunning custom voice
 ---
 
-## Jalankan di colab
+## Open in colab
 
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CloneTerial/ChatVoice/blob/main/ChatVoice.ipynb)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/KhanTeryal/ChatVoice/blob/main/ChatVoice.ipynb)
 
 ---
 
